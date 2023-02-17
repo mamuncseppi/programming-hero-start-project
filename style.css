@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.tex-primary{
+    color: orange;
+}
+
+.btn-primary{
+    color: rgb(226, 210, 210);
+    font-weight: 100px;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: orangered;
+}
+
+
+
+.nav title{
+    font-weight: 800;
+    font-size: 45px;
+           
+}
+
+.header{
+    color: #e90505e0;
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+
+}
+
+
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+nav ul{
+    display: flex;
+    align-items:center;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
+}
+
+
+/* banner banner */
+.banner{
+    margin: 0 200px;
+    align-items: center;
+    display: flex;
+}
+
+.banner-tittle{
+    font-weight: 700px;
+    font-size: 85px;
+
+}
+
+
+.banner-sub-tittle{
+    font-weight: 600px;
+    font-size: 45px;
+    margin-bottom: 20px;
+
+}
+
+.banner-des{
+    color:rgb(66, 10, 236);
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+/* .div img{
+    font-weight: 20px;
+    font-size: 10px;
+} */
